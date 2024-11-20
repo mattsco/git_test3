@@ -87,7 +87,6 @@
   "schema": {
     "columns": [
       {"name":"PassengerId","type":"bigint"},
-      {"name":"Survived","type":"bigint"},
       {"name":"Pclass","type":"bigint"},
       {"name":"Name","type":"string"},
       {"name":"Sex","type":"string"},
